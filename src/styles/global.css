@@ -2,6 +2,12 @@ body {
 
 
     margin: 0;
-    background-color: yellow;
+    width: 100%;
+    height: 100%;
+    background-image: url(/src/images\wp5027254-anime-trees-4k-wallpapers.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 
 }
+
+.app {}
